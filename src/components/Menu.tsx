@@ -40,8 +40,8 @@ export default function Menu() {
             {renderizarItem("/render/ssg/filme","SSG Simples", "pt")}
             {renderizarItem("/render/ssg/personagem","Personagem SW", "pt")}
             {renderizarItem("/render/ssg/produtos","Produtos", "pt")}
-
             {renderizarItem("/render/ssg/simples", "SSG Simples", "en")}
+            {renderizarItem("/render/ssg/catalago/5e2cb698-4345-4316-803c-5383ee71209f", "Catalago", "pt")}
 
 
         </ul>

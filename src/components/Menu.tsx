@@ -37,6 +37,9 @@ export default function Menu() {
             {renderizarItem("/rotas/dinamicas/consulta/js/css/html", "Consulta", "en")}
             {renderizarItem("/rotas/i18n/saudacao", "Saudacção PT", "pt")}
             {renderizarItem("/rotas/i18n/saudacao", "Saudacção EN", "en")}
+            {renderizarItem("/render/ssg/filme","SSG Simples", "pt")}
+            {renderizarItem("/render/ssg/personagem","Personagem SW", "pt")}
+            {renderizarItem("/render/ssg/produtos","Produtos", "pt")}
 
         </ul>
     )

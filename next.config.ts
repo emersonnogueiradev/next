@@ -7,6 +7,9 @@ const nextConfig: NextConfig = {
     locales: ["pt","en"],
     defaultLocale: "pt",
   },
+  images:{
+    domains: ['dummyimage.com']
+  }
 
 };
 

@@ -41,6 +41,9 @@ export default function Menu() {
             {renderizarItem("/render/ssg/personagem","Personagem SW", "pt")}
             {renderizarItem("/render/ssg/produtos","Produtos", "pt")}
 
+            {renderizarItem("/render/ssg/simples", "SSG Simples", "en")}
+
+
         </ul>
     )
 
